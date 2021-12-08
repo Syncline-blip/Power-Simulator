@@ -4,7 +4,7 @@ Power Simulator is a 3 part project and investigation which aims to create a sim
 
 Part 1: PowerUsageLauncher
     
-    PowerUsageLauncher is a simple terminal based UI and graph application which outputs the energy usage of a single house hold based on the time of the day:
+   PowerUsageLauncher is a simple terminal based UI and graph application which outputs the energy usage of a single house hold based on the time of the day:
         - Plots a graph showing the usage during the morning, afternoon, and night time, which allows the users to analyse the trends and patterns on when
           energy is used the most and when it is least used.
         - The application also plots a graph for the total/cumulative usage (meaning the overall usage combined).
