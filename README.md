@@ -17,4 +17,4 @@ The project is still very much a WIP and future changes will come to the program
 
 
 ## Other Information
-To see the thought proccess, breakdown and a tutorial on how to use the program, please read the documents 'Report.pdf' and 'Investigation.pdf'
+To see the thought proccess, breakdown and a tutorial on how to use the program, please read the documents 'Usage.pdf' and 'Investigation.pdf'
